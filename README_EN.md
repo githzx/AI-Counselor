@@ -4,7 +4,7 @@
 
 An AI counseling companion with memory across conversations, built on [OpenCode](https://opencode.ai)'s multi-agent architecture.
 
-This repository provides complete **AI build instructions**. Give them to your AI coding assistant to generate the project, install dependencies, and run the checks. Then use the system in OpenCode.
+This repository provides complete **AI build instructions**. Give them to your OpenCode to generate the project, install dependencies, and run the checks. Then use the system in OpenCode.
 
 ## Build your own
 
