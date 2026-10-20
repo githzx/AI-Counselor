@@ -10,7 +10,7 @@
 
 打开 [AI_Counselor_SPEC.md](./AI_Counselor_SPEC.md)，复制全文，交给能创建文件和执行命令的 AI 编码助手，并告诉它：
 
-英文读者可使用 [English build instructions](./AI_Counselor_SPEC_EN.md)。两份指令均包含完整模板，可分别独立使用。
+For English users: [English build instructions](./AI_Counselor_SPEC_EN.md)。两份指令均包含完整模板，可分别独立使用。
 
 ```text
 请按照下面的完整构建指令，在当前目标目录构建 AI Counselor。
