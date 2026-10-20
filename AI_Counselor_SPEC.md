@@ -2,12 +2,6 @@
 
 [简体中文](./AI_Counselor_SPEC.md) | [English](./AI_Counselor_SPEC_EN.md)
 
-> **English abstract**: A self-contained build specification for an AI counseling companion based on OpenCode. Give this Markdown file to an AI coding agent to generate the agent prompts, commands, transcript plugin, and empty records. No other project files are required.
->
-> 把本文件完整交给你的 AI 编码助手，对它说："请按照这份指令书，在当前目录构建整个系统。" 本文件包含全部构建材料，不需要获取作者的运行目录或咨询记录。构建完成后，在 OpenCode 中使用。
-
----
-
 ## 0. 给重建 AI 的总指令
 
 你是一位资深软件工程师。请在**当前目标目录**中，按照本指令书构建一个 AI 心理咨询系统：
