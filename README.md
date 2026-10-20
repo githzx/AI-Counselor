@@ -22,9 +22,9 @@
 
 对话由插件自动保存。长期记忆以 Markdown 档案保存，每次开始咨询时加载，定期归纳后继续用于下一次对话。
 
-## 日常使用
+## 如何使用
 
-构建完成后，在项目目录启动 OpenCode。每次新咨询，按tab键将OpenCode切换到Counselor，然后输入：
+构建完成后，在项目目录启动 OpenCode。每次新咨询，按tab键将OpenCode切换到“Counselor”，然后输入：
 
 ```text
 /start
