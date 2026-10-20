@@ -8,21 +8,7 @@
 
 ## 开始构建
 
-打开 [AI_Counselor_SPEC.md](./AI_Counselor_SPEC.md)，复制全文，交给能创建文件和执行命令的 AI 编码助手，并告诉它：
-
-For English users: [English build instructions](./AI_Counselor_SPEC_EN.md)。两份指令均包含完整模板，可分别独立使用。
-
-```text
-请按照下面的完整构建指令，在当前目标目录构建 AI Counselor。
-完成配置、插件、命令、空档案和依赖安装，并按指令中的清单检查结果。
-保留目标目录已有的 README、构建指令和 Git 信息；遇到其他同名文件或已有咨询记录时，不要覆盖。
-
-（在这里粘贴 AI_Counselor_SPEC.md 全文）
-```
-
-也可以下载或克隆这个仓库，在该目录中让 AI 读取 `AI_Counselor_SPEC.md` 并执行。指令书本身包含全部构建材料，无需获取作者的其他文件。
-
-你可以用自己习惯的 AI 编码工具完成构建；生成的系统运行在 OpenCode 中。
+新建一个文件夹，在该文件夹路径下运行OpenCode。打开 [AI_Counselor_SPEC.md](./AI_Counselor_SPEC.md)，复制全文给OpenCode，AI可按照指令开始自动构建。
 
 ## 它如何工作
 
