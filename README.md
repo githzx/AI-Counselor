@@ -2,7 +2,7 @@
 
 [简体中文](./README.md) | [English](./README_EN.md)
 
-一个能记住过往对话的 AI 心理咨询自助系统，基于 [OpenCode](https://opencode.ai) 的多 agent 架构。
+一个能记住过往对话的 AI 心理咨询师，基于 [OpenCode](https://opencode.ai) 的多 agent 架构。
 
 这个仓库提供完整的 **AI 构建指令**。把指令交给你的 OpenCode，让它生成项目、配置依赖并完成检查；构建完成后，在 OpenCode 中开始使用。
 
