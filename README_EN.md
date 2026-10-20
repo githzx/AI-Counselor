@@ -6,23 +6,9 @@ An AI counseling companion with memory across conversations, built on [OpenCode]
 
 This repository provides complete **AI build instructions**. Give them to your OpenCode to generate the project, install dependencies, and run the checks. Then use the system in OpenCode.
 
-## Build your own
+## How to setup
 
-Open [AI_Counselor_SPEC_EN.md](./AI_Counselor_SPEC_EN.md), copy the entire document, and give it to an AI coding assistant that can create files and run commands:
-
-```text
-Build AI Counselor in the current target directory using the complete instructions below.
-Create the configuration, plugin, commands, empty records, and dependencies,
-then check the result against the checklist in the specification.
-Preserve existing README files, build specifications, and Git information.
-Do not overwrite conflicting files or existing counseling records.
-
-(Paste the entire contents of AI_Counselor_SPEC_EN.md here.)
-```
-
-You can also download or clone this repository and ask your AI to read and follow `AI_Counselor_SPEC_EN.md` in that directory. The specification is self-contained; you do not need any other files from the author's working project.
-
-Use whichever AI coding assistant you prefer to build it. The generated system runs in OpenCode. The [Chinese specification](./AI_Counselor_SPEC.md) is also available. Each edition contains all templates needed to build independently; the English edition includes English agent prompts and record templates.
+Create a new folder and start OpenCode in it. Open [AI_Counselor_SPEC_EN.md](./AI_Counselor_SPEC_EN.md), copy the entire document, and send to OpenCode. It can follow the instruction and setup automatically.
 
 ## How it works
 
@@ -36,7 +22,7 @@ Three agents handle different parts of the process:
 
 A plugin automatically saves the conversations. Long-term memory lives in Markdown records, which are loaded at the start of a conversation and periodically summarized for future use.
 
-## Everyday use
+## How to use
 
 After building, launch OpenCode in the project directory. Press Tab to switch to Counselor mode, and run:
 
