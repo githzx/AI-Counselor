@@ -84,7 +84,7 @@ The build specification contains the complete directory layout, file templates, 
 
 `records/` contains your private counseling material. The build excludes it through `.gitignore`. Do not commit it to GitHub or expose real consultation content in issues, screenshots, or examples.
 
-This is a self-help companion for reflection and personal understanding. It cannot replace licensed psychotherapy or psychiatric care. Its crisis protocol directs users toward professional support when needed. The default hotline numbers are for mainland China; adapt them to your location during the build.
+This is a self-help companion for reflection and personal understanding. It cannot replace licensed psychotherapy or psychiatric care. Its crisis protocol directs users toward professional support when needed, adapt them to your location during the build.
 
 ## License
 
