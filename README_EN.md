@@ -38,7 +38,7 @@ A plugin automatically saves the conversations. Long-term memory lives in Markdo
 
 ## Everyday use
 
-After building, launch OpenCode in the project directory. Create a new primary session for each new consultation and run:
+After building, launch OpenCode in the project directory. Press Tab to switch to Counselor mode, and run:
 
 ```text
 /start
