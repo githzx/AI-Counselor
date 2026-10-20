@@ -85,7 +85,3 @@ The build specification contains the complete directory layout, file templates, 
 `records/` contains your private counseling material. The build excludes it through `.gitignore`. Do not commit it to GitHub or expose real consultation content in issues, screenshots, or examples.
 
 This is a self-help companion for reflection and personal understanding. It cannot replace licensed psychotherapy or psychiatric care. Its crisis protocol directs users toward professional support when needed, adapt them to your location during the build.
-
-## License
-
-The documentation and build instructions are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use, modify, and share them with attribution to the source.
