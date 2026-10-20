@@ -727,7 +727,3 @@ The portable assets are the three agent prompts and the record workflow. Porting
 - This is a **self-help companion**. It does not constitute psychotherapy or medical advice and cannot replace licensed counseling or psychiatric care.
 - The system's generated records and transcripts are written to local records/. Never publish them with the build instructions or submit them to a public repository as examples.
 - In a crisis involving suicide, self-harm, or harm to others, the protocol offers support and directs the person toward professional help. Adapt hotline and emergency numbers to the user's location; see the counselor crisis protocol.
-
-### 9.4 License
-
-These build instructions are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): attribution is required for use, modification, and redistribution. The original specification assigns the rebuilt system to its builder and encourages sharing improvements under the same license.
