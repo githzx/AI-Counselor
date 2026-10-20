@@ -2,12 +2,6 @@
 
 [简体中文](./AI_Counselor_SPEC.md) | [English](./AI_Counselor_SPEC_EN.md)
 
-> Give this entire document to your AI coding assistant and say: "Build the complete system in the current directory using these instructions." This document contains all build materials. No other files or counseling records from the author's working project are required. The generated system runs in OpenCode.
->
-> This English edition includes English agent prompts, commands, and record templates. It preserves the Chinese edition's roles, permissions, workflow, and technical conventions. Use one edition for a build; do not combine both sets of templates.
-
----
-
 ## 0. Instructions for the building AI
 
 You are a senior software engineer. Build an AI counseling system in the **current target directory** using this specification:
